@@ -14,8 +14,8 @@
 </div>
 
 ## 📫 Onde me encontrar
-- [LinkedIn]([https://www.linkedin.com/in/ronaldy](https://www.linkedin.com/in/brunno-perfeito-1ba36834a/))
-- [Portfólio]([https://ronaldydev.com](https://bperfeito.vercel.app/))
+- [LinkedIn](https://www.linkedin.com/in/brunno-perfeito-1ba36834a/)
+- [Portfólio](https://bperfeito.vercel.app/)
 - [E-mail](mailto:brunnoperfeito.92@gmail.com)
 - [Instagram](https://www.instagram.com/bperfeito.dev/)
 
