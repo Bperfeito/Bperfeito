@@ -1,4 +1,4 @@
-##👋 Olá, eu sou Brunno Perfeito
+👋 Olá, eu sou Brunno Perfeito
 
 
 💻 Desenvolvedor **Front-End**  
