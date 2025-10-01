@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Ronaldy
 
-![Header Image](https://cdn.pixabay.com/photo/2017/05/10/16/29/programming-230×153.jpg)
+![Header Image] (https://cdn.pixabay.com/photo/2017/05/10/16/29/programming-230×153.jpg)
 
 💻 **Desenvolvedor Front-End**  
 ✨ Apaixonado por **tecnologia** e sempre em busca de aprendizado
