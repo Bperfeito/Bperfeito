@@ -20,7 +20,7 @@
 - [Instagram](https://www.instagram.com/bperfeito.dev/)
 
 ## 📊 Status do GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldy&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bperfeito&show_icons=true&theme=dark)
 
 ---
 ⭐️ Feito com dedicação por **Brunno**
