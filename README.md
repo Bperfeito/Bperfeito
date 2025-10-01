@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Brunno Perfeito
 
-![Header Image](https://www.exemplo.com/imagem-header.jpg)
+![Header Image]([https://www.exemplo.com/imagem-header.jpg](https://pixabay.com/pt/photos/programa%C3%A7%C3%A3o-html-css-javascript-1873854/))
 
 💻 **Desenvolvedor Front-End**  
 ✨ Apaixonado por **tecnologia** e sempre em busca de aprendizado
