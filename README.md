@@ -15,7 +15,8 @@
 ## 📫 Onde me encontrar  
 * [LinkedIn](https://www.linkedin.com/in/brunno-perfeito-1ba36834a/)  
 * [Portfólio](https://bperfeito.vercel.app/)  
-* [E-mail](mailto:brunnoperfeito.92@email.com)  
+* [E-mail](mailto:brunnoperfeito.92@email.com)
+* [Instagram](https://www.instagram.com/bperfeito.dev/) 
 
 ---
 ⭐️ Feito com dedicação por **Brunno**
