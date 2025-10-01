@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Brunno Perfeito
+# 👋 Olá, eu sou o Ronaldy
 
-![Header Image](https://pixabay.com/pt/photos/programa%C3%A7%C3%A3o-html-css-javascript-1873854/)
+![Header Image](https://cdn.pixabay.com/photo/2017/05/10/16/29/programming-230×153.jpg)
 
 💻 **Desenvolvedor Front-End**  
 ✨ Apaixonado por **tecnologia** e sempre em busca de aprendizado
