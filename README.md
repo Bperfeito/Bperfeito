@@ -2,7 +2,7 @@
 <h1>👋 Olá, eu sou o Brunno Perfeito<h1/>
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bperfeito&show_icons=true&theme=dark) <br>
- 👤 Sobre Mim
+ ## 👤 Sobre Mim
 <ul>
   <li>🎓 Estudante de Analise e desenvolvimento de sistemas</li>
   <li>🛠️ Atualmente focado em desenvolvimento web <strong>Front-end<strong/></li>
