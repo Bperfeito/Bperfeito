@@ -1,9 +1,8 @@
 <img src="https://github.com/Bperfeito/Bperfeito/blob/main/bannergithub.jpg" alt="banner" width="100%" />
 <h1>👋 Olá, eu sou o Brunno Perfeito<h1/>
 
- 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bperfeito&show_icons=true&theme=dark) <br>
-## 👤 Sobre Mim
+ 👤 Sobre Mim
 <ul>
   <li>🎓 Estudante de Analise e desenvolvimento de sistemas</li>
   <li>🛠️ Atualmente focado em desenvolvimento web <strong>Front-end<strong/></li>
@@ -31,8 +30,8 @@
 
  🛠️ **Ferramentas**
 <div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
 </div>
 
