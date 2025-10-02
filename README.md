@@ -3,8 +3,7 @@
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bperfeito&show_icons=true&theme=dark)
 
-##
-💻 **Desenvolvedor Front-End**  
+## 💻 **Desenvolvedor Front-End**  
 ✨ Apaixonado por **tecnologia** e sempre em busca de aprendizado
 
 ## 👤 Sobre Mim
@@ -47,6 +46,6 @@
 - [Instagram](https://www.instagram.com/bperfeito.dev/)
 
 ---
- ⭐️ Obrigado por visitar meu perfil!
+ ## ⭐️ **Obrigado por visitar meu perfil!**
     Se quiser bater um papo sobre código, ideias de projeto ou apenas trocar experiências, sinta-se à vontade para entrar em contato!
 
