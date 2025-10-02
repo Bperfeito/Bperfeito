@@ -4,7 +4,7 @@
  
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bperfeito&show_icons=true&theme=dark) <br>
  
-  Desenvolvedor Front-End  
+  ##Desenvolvedor Front-End  
   Apaixonado por **tecnologia** e sempre em busca de aprendizado
 
 ## 👤 Sobre Mim
@@ -14,6 +14,7 @@
   <li>🧠 Estudando: JavaScript | React | Bootstrap</li>
   <li>📍 Localizado em: Brasil 🇧🇷</li>
 </ul>
+
 
 ## 🧰 Tecnologias e ferramentas que trabalho
 💡 **Front-end**
