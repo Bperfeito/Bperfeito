@@ -1,6 +1,6 @@
+<img src="https://github.com/Bperfeito/Bperfeito/blob/main/bannergithub.jpg" alt="banner" width="100%" />
 # 👋 Olá, eu sou o Brunno Perfeito
 
-![Header Image](https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854_1280.png)
 
 💻 **Desenvolvedor Front-End**  
 ✨ Apaixonado por **tecnologia** e sempre em busca de aprendizado
