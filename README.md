@@ -4,8 +4,9 @@
  
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bperfeito&show_icons=true&theme=dark) <br>
  
-   Desenvolvedor Front-End  
- ## Apaixonado por **tecnologia** e sempre em busca de aprendizado
+   ⭐️ **Obrigado por visitar meu perfil!** <br>
+Se quiser bater um papo sobre código, ideias de projeto ou apenas trocar experiências, sinta-se à vontade para entrar em contato!
+
 
 ## 👤 Sobre Mim
 <ul>
