@@ -8,6 +8,8 @@
  💻 **Desenvolvedor Front-End**  
  ✨ Apaixonado por **tecnologia** e sempre em busca de aprendizado
 
+ ##
+
 ## 👤 Sobre Mim
 <ul>
   <li>🎓 Estudante de Analise e desenvolvimento de sistemas</li>
