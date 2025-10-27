@@ -37,7 +37,7 @@
 ## 📫 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/brunno-perfeito-1ba36834a/)
 <a>
-<img>![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</img> 
+<img> src= "![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)"/>
 </a>
 - [E-mail](mailto:brunnoperfeito.92@gmail.com)
 - [Instagram](https://www.instagram.com/bperfeito.dev/)
