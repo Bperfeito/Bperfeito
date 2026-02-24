@@ -5,7 +5,7 @@
 <ul>
   <li>🎓 Estudante de Analise e desenvolvimento de sistemas</li>
   <li>🛠️ Atualmente focado em desenvolvimento web <strong>Back-end<strong/></li>
-  <li>🧠 Estudando: JavaScript | React | Bootstrap</li>
+  <li>🧠 Estudando: JavaScript | Node.js | Express</li>
   <li>📍 Localizado em: Brasil 🇧🇷</li>
 </ul>
 
@@ -15,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/NodeJs-original.svg" width="40" />
 </div>
 
 ##
