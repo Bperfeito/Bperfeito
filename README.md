@@ -22,7 +22,7 @@
 
  ⚙️ **Framework**
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/express/express-original-wordmark.svg" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/express/express-original-wordmark.svg" width="40" />
 </div>
 
 ##
