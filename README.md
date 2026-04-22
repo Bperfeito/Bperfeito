@@ -36,7 +36,7 @@
 
 ## 📫 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/brunno-perfeito-1ba36834a/)
-- [Portfolio](https://bperfeito.vercel.app/)
+- [Portfolio](https://bperfeito.netlify.app/)
 - [E-mail](mailto:brunnoperfeito.92@gmail.com)
 - [Instagram](https://www.instagram.com/bperfeito.dev/)
 
