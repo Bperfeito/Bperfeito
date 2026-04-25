@@ -2,7 +2,7 @@
  
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bperfeito&show_icons=true&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?bperfeito=bperfeito&theme=github-dark)
+![Metrics](https://metrics.lecoq.io/Bperfeito)
  ## 👤 Sobre Mim
 <ul>
   <li>🎓 Estudante de Analise e desenvolvimento de sistemas</li>
