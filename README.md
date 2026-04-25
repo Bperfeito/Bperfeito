@@ -2,7 +2,7 @@
  
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bperfeito&show_icons=true&theme=tokyonight)
 
-![Metrics](https://metrics.lecoq.io/Bperfeito)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bperfeito&theme=tokyonight)
  ## 👤 Sobre Mim
 <ul>
   <li>🎓 Estudante de Analise e desenvolvimento de sistemas</li>
