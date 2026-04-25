@@ -1,8 +1,8 @@
 <h1>👋 Olá, eu sou o Brunno Perfeito<h1/>
  
- ## 🐍 Minhas contribuições
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
 
-![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=tokyo-night)
  ## 👤 Sobre Mim
 <ul>
   <li>🎓 Estudante de Analise e desenvolvimento de sistemas</li>
