@@ -2,7 +2,7 @@
  
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bperfeito&show_icons=true&theme=tokyonight)
 
-![Snake animation](https://raw.githubusercontent.com/Bperfeito/Bperfeito/output/github-contribution-grid-snake-dark.svg)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Bperfeito)
  ## 👤 Sobre Mim
 <ul>
   <li>🎓 Estudante de Analise e desenvolvimento de sistemas</li>
