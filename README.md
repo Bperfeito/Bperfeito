@@ -1,6 +1,6 @@
 <h1>👋 Olá, eu sou o Brunno Perfeito<h1/>
  
-![Snake animation](https://raw.githubusercontent.com/Bperfeito/Bperfeito/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Bperfeito/Bperfeito/output/github-contribution-grid-snake-dark.svg)
  ## 👤 Sobre Mim
 <ul>
   <li>🎓 Estudante de Analise e desenvolvimento de sistemas</li>
