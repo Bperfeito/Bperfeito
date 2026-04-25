@@ -1,8 +1,8 @@
 <h1>👋 Olá, eu sou o Brunno Perfeito<h1/>
  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bperfeito&show_icons=true&theme=tokyonight)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bperfeito&theme=tokyo-night)
  ## 👤 Sobre Mim
 <ul>
   <li>🎓 Estudante de Analise e desenvolvimento de sistemas</li>
