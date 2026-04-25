@@ -2,7 +2,7 @@
  
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bperfeito&show_icons=true&theme=tokyonight)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bperfeito&theme=tokyo-night)
+![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
  ## 👤 Sobre Mim
 <ul>
   <li>🎓 Estudante de Analise e desenvolvimento de sistemas</li>
