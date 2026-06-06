@@ -11,6 +11,7 @@
 
 ## 🧰 Tecnologias e ferramentas que trabalho
 💡 **Fullstack**
+
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
