@@ -12,25 +12,27 @@
 ## 🧰 Tecnologias e ferramentas que trabalho
 💡 **Fullstack**
 
-[![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=php&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ##
 
  ⚙️ **Framework**
  
-[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 
 ##
 
  🛠️ **Ferramentas**
  
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
 ## 📫 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/brunno-perfeito-1ba36834a/)
