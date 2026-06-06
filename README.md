@@ -22,17 +22,15 @@
 ##
 
  ⚙️ **Framework**
-[![My Skills](https://skillicons.dev/icons?i=express&theme=light)](https://skillicons.dev)
+ 
+[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)
 
 ##
 
  🛠️ **Ferramentas**
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" />
-</div>
+ 
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
 
 ## 📫 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/brunno-perfeito-1ba36834a/)
