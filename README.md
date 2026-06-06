@@ -12,11 +12,11 @@
 ## 🧰 Tecnologias e ferramentas que trabalho
 💡 **Fullstack**
 
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=php&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
 
 ##
