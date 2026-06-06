@@ -22,9 +22,7 @@
 ##
 
  ⚙️ **Framework**
-<div style="display: flex; gap: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/express/express-original-wordmark.svg" width="55" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=express&theme=light)](https://skillicons.dev)
 
 ##
 
